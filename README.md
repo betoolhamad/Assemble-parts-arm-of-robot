@@ -1,12 +1,13 @@
 # Assemble parts arm of robot
-Assemble parts to build robot arm using blender software. which its used in fighting robot project.     
+Assemble parts to build robot arm using blender software. which its used in fighting robot project.<br></br>
 
 
 <image src = "https://user-images.githubusercontent.com/43522153/123545727-40459180-d762-11eb-9399-c8ef7b167504.jpeg" width="450" />
+  
 
 
 
-Which was design by smart methods compny. https://github.com/smart-methods
+Which was design by smart methods compny. https://github.com/smart-methods<br></br>
 
 
 
