@@ -25,7 +25,7 @@ Which was design by smart methods compny. https://github.com/smart-methods<br></
 
 
 
-<image src = "https://user-images.githubusercontent.com/43522153/123546352-e7c3c380-d764-11eb-8de6-9a6df4f256be.png" width="700" />
+<image src = "https://user-images.githubusercontent.com/43522153/123546352-e7c3c380-d764-11eb-8de6-9a6df4f256be.png" width="600" />
 
    
    Now the arm is ready!
